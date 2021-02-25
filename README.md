@@ -10,7 +10,7 @@ id | Nombre  | Grupo | Página personal |
 4 | | | 
 5 | | | 
 6 | | | 
-7 | | | 
+7 | Joaquín | DAW |  
 8 | | | 
 9 | | | 
 10 | | | 
